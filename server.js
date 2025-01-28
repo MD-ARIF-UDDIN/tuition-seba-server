@@ -12,7 +12,7 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-// Google Sheets API Authentication using service account
+
 const auth = new google.auth.GoogleAuth({
     keyFile: KEY_PATH,
     scopes: ['https://www.googleapis.com/auth/spreadsheets'],
