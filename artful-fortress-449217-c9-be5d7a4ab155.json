@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "artful-fortress-449217-c9",
+  "private_key_id": "be5d7a4ab15512336716fbd5c9c2612e7657b56c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6FXPQs5now7Ly\nmkNKIZmiOnqoJ78oN1E4/EVDN0Zp4veruRUP7AfS5lJaFWdTH7+/b8vOrbgaxsnV\n9rfS7/DImy6kYNOiMD9SC9rnq9OvigwSMDko3wYLUmr3xWRL9IuUgcpiT/vQRYB4\ns5uNaPOXIbRSmfC0C9Bc0oMrZBnRU+ivkfFxOq6WeMRS7+LE32CVuo0eaw/JEOr6\nLyyYboXohnZnFzguXCr7a1izua/OyuZdvHSH23p9EybMilHtqZWT4G6Y4MSvYv5Y\n+LNKiYuvbWOdOlRwEkYCAdpYwcMaQ5dqKxKjPN0GCvb+Wfm64eTrNsVvitYISVJg\nK0LbUq31AgMBAAECggEABKZJxe/xkbARlw6lK2FaWMhdr45WsDg5n6hsa2wie/DU\n4fTUaQfFGXngvH7Tv6JuL19+vmHEKnrYsWtZvbNX6B+Pc2QlkmQ39ibKWP5dHeh5\nMWg3ua1g6zei+lQvT3DyOG1jZJWbcK4xOrlAjp+FcdUWGE01D77kFw65pHLpyn/B\nZLbtxpPR3o5ZM1RAMNSTspmQsPODHM5/uDJNbf3vFwhMCO3BAn9D1Sw5Hdv4JStF\n4tVc2igAjMcIQGXzXHvt2fDKsTnOZNoRzju1fBwK7Qge1xBx6GdjUDiUamhbANw9\nKF76XJEiCVCV2JjiNU/ie0s1tozIRCSFN0F75840XQKBgQDa8z4He3tId9fNsbqQ\nv07ykCHjQykkTDe8gtuxeNbVPLQE51h+KFAkuCIrB44d/zicDETQJmC2UIFSkw7E\nEtWJy68ciA8vmVHDpTEBIvn1NP1pYcjreWxTwjfp3Kjx7IPSR8GdmMQIQSqvMo7h\n4Mofoq1xq3fDvuuXdCMb1u8uUwKBgQDZknawZF6PIntwnqBBCq+/zu6/NCh9fojz\n45PteKKJh94YYqXmdLAEnDhSezF/xO10dZU/ob6hHfiQ+dLYoOXrc7F8xeYpv+BZ\nyTYEX0oI+aIDd/jfF1vg3RODpdz19265cG6Ybs1NaKLruAXk7glrl+sWD/7e6BPC\nkK/J7t7ZlwKBgQDapx/DCSXM8SGqYVsXQnXs9tNgyalEfnkK4QPU8ABbYwvD+eT9\n1/RxNxGoNxtOCZrW+8mctTbP2wXLGOEeHlDyE18E9ztzJYHqCAYwRGWq4whPPUAR\nKGluG/8KpTpynufmD5Ljd7QNKkcePzdBi+NORH9BjSNFcFyGG40UOEkT0QKBgBL3\nWpNb3IZbuikCGvQwi0uMLXHLiTAPZL7l+tI7rueQSYMUrmOdjm6Ic7x08saxkwWQ\n7nbCkcyXwUBaFtA9jm1tA27eDYdcK6GIEcZlzB1mLYJh5fcEoUTD4NycC9wBOsy9\niVaOaiUyVul3fEQNoBKaBqtAr7YcwwQ1+qz+vrx3AoGBAKvcr/ujWcadrL+ve41X\nlhkqhW5JDbZ/iVOluVLQsfpC9um3qrANpGSjG1LqHqcFBRHJ7x2PqKvVZybOU3kJ\nmGuS14VKt5bLyR/kDBjjrKpFxTh+a4d5MmOU/pcA0+Dmp5hwmThwp40Ata66NohM\n6+mohOOvROdTCXUsk0vm50h1\n-----END PRIVATE KEY-----\n",
+  "client_email": "tuition-seba-server@artful-fortress-449217-c9.iam.gserviceaccount.com",
+  "client_id": "113381750593127125056",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tuition-seba-server%40artful-fortress-449217-c9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
